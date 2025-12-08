@@ -38,13 +38,6 @@
         <url>https://github.com/heart4it/codesupport</url>
     </scm>
 
-    <repositories>
-        <repository>
-            <id>my-custom-repo</id>
-            <url>https://example.com/maven-repo/</url>
-        </repository>
-    </repositories>
-
     <dependencies>
         <!-- JUnit Jupiter API for writing tests -->
         <dependency>
